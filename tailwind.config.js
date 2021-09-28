@@ -15,6 +15,7 @@ module.exports = {
         'h1': { fontSize: theme('fontSize.2xl'), fontFamily: 'Poppins-Black' },
         'h2': { fontSize: theme('fontSize.xl'), fontFamily: 'Poppins-ExtraBold' },
         'h3': { fontSize: theme('fontSize.lg'), fontFamily: 'Poppins-Medium' },
+        'h4': { fontSize: theme('fontSize.md'), fontFamily: 'Poppins-Regular' },
       })
     })
   ],
