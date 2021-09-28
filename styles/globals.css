@@ -56,7 +56,6 @@ body {
 
   font-size: var(--notebook-default-font-size);
   font-family: 'Poppins-Regular', serif;
-  color: #333;
 
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -71,6 +70,6 @@ textarea {
   font-family: 'Poppins-Regular';
 }
 
-:focus:not(:focus-visible) {
+input {
   outline: none;
 }

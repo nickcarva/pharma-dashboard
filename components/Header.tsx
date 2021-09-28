@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 const Header = () => {
   return (
-    <header className="w-screen h-24 bg-white flex justify-between">
+    <header className="h-24 bg-white flex justify-between">
       <div className="px-14 h-full flex items-center space-x-8">
         <div className="flex-shrink-0">
           <Image
